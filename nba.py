@@ -1,3 +1,4 @@
+#爬取nba网站球员信息
 import requests
 from lxml import etree
 #发送的地址
