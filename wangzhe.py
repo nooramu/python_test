@@ -1,3 +1,4 @@
+#爬取王者荣耀官网英雄照片
 import requests
 from lxml import etree
 import os
